@@ -4,12 +4,8 @@
 
 ## Paul's Cloud Journey
 
-I am a Telecom Engineer pursuing a twist in my carrer to deep dive in Cloud Computing.
-
-I am preparing for AZ-300
-
-At the end of the challenge I want to have practiced all technical concepts for AZ-300
-
+I am a Telecom Engineer pursuing a twist in my carrer i have previous experience arquitechting Telco Cloud solution but no i am looking to deep dive in Cloud Computing.
+I am preparing for AZ-300 and at the end of the challenge I want to have practiced all technical concepts for this certification
 - https://twitter.com/polfinol
 - https://www.linkedin.com/in/paul-finol
 
